@@ -1,1 +1,1 @@
-([another JS dev ](https://github.com/arjunpndt) )
+[another JS dev ](https://github.com/arjunpndt)
