@@ -1,1 +1,1 @@
-[another JS dev ](https://github.com/arjunpndt)
+connect with [another JS dev ](https://github.com/arjunpndt)
